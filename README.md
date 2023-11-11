@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Im._.SH&animation=fadeIn&fontAlign=80
 )
 **23.02** 갓 졸업하고 이것 저것 경험 중 ~ , ~
+
 **CV**를 좋아하고 **deeplearning, self driving** 등 다양한 것에도 관심이 있어요
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612)
 
 ## Experience 
