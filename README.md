@@ -4,15 +4,6 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙌 Hashtag ME </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </li></li>끝없이 #도전 하고 #실패 와 동시에 #경험 하며 발전하는 개발자가 되고 싶습니다!</li>📚CV에 관심이 있어요! </li>🎓갓 졸업하여 이것 저것 경험중입니다 !</li>📣소통하고 협업하는 법을 배워가고 있습니다 !
-    </div> 
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🕵️‍♂️ Experiences </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </li></li>경험
-    </div>
-    </div> 
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  🗂️ Competitions & Project</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </li></li> 내용
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -20,7 +11,20 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-          </div>
+        
+---
+    ### Experiences
+    > * __CV AI Developer 6th, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/)__ / 2023.10 ~ 
+    > * __Hansung Univ. Undergraduate researcher : [REEL](https://sites.google.com/view/hsreelab)__ / 2022.09 ~ 2022.12
+---
+    ### Competitions & Project
+    > * __Boostcamp AI Tech -
+    > * __Hansung Univ. Capstone Object Detection & Object tracking Project__ / 2022.03. ~ 2023.08.
+    > * __2022 국방 AI 경진대회 본선 진출, [AI Connect](https://aiconnect.kr/competition/detail/213)__ / 2022-09-30 ~ 2022-12-01
+---
+    ### Paper Review
+
+----
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
