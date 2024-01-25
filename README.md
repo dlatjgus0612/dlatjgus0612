@@ -20,7 +20,8 @@
  - **2022.03 - 2022.07** 지능시스템 Capstone Design, Hansung Univ., Korea - Object detection , tracking
  - **2022.03 - 2022.07** ICT 엔터테인먼트 Capstone Design, Hansung Univ., Korea - mapping, FPS, UI with Unity
  - **2022.09 - 2022.12** 2022 국방 AI 경진대회 본선 진출  [AI Connect](https://aiconnect.kr/competition/detail/213) - Sementic Segmentation, Denosing
- - **2023.12** Boostcamp level1 - [Imageclassification](https://github.com/dlatjgus0612/level1-imageclassification-cv-01) 1위 
+ - **2023.12** Boostcamp level1 - [Imageclassification](https://github.com/dlatjgus0612/level1-imageclassification-cv-01) 1위
+ - **2023.01** Boostcamp level2 - [ObjectDetection](https://github.com/dlatjgus0612/level2-objectdetection-cv-08) 5위 
 ## Paper Review
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+^^;)
 ## contact
