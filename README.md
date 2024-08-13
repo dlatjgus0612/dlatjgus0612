@@ -7,6 +7,11 @@
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
+<img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="apacheairflow" src ="https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img alt="arduino" src ="https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612)
 
