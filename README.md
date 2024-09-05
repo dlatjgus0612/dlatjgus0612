@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Im._.SH&animation=fadeIn&fontAlign=80
 )
 
-**23.02** 졸업하고 이것 저것 경험 중인 CV러 입니다 ~~
+**23.02** 졸업하고 이것 저것 경험 중인 CV러 입니다 
+다양하게 경험하고 식견이 넓어 창의적인 사람이 되고싶어요 
 
 **ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 다양한 것에도 관심이 있어요
 
