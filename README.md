@@ -2,7 +2,10 @@
 )
 
 **23.02** 졸업하고 이것 저것 경험 중인 CV 러 입니다 
+
 많은 것을 경험해서 식견이 넓고 창의적인 사람이 되는 것이 목표에요. 
+
+
 
 **ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 많은 것에 관심이 있어요
 
