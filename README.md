@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=__AIm&animation=fadeIn&fontAlign=80
 )
 
-**23.02** 졸업하고 이것 저것 경험 중인 CV러 입니다 
-다양하게 경험하고 식견이 넓어 창의적인 사람이 되고싶어요 
+**23.02** 졸업하고 이것 저것 경험 중인 CV 러 입니다 
+많은 것을 경험해서 식견이 넓고 창의적인 사람이 되는 것이 목표에요. 
 
-**ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 다양한 것에도 관심이 있어요
+**ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 많은 것에 관심이 있어요
 
 현재는 **정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
 
