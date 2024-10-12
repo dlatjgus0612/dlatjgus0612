@@ -5,6 +5,7 @@
 다양하게 경험하고 식견이 넓어 창의적인 사람이 되고싶어요 
 
 **ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 다양한 것에도 관심이 있어요
+
 현재는 **정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
