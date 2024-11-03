@@ -4,7 +4,8 @@
 
 안되면 되게하는 **ML/DataEngineer** 임서현입니다. 어떤 기술이든 새로운 것을 배우는 데에 거리낌이 없습니다.
 
-대학 시절 포괄적으로 배우는 Robotics, VR전공으로 다양한 언어에 대한 이해도를 높였고, Naver Boostcamp 에서 ComputerVision 트랙으로 AI기초를 다졌습니다.
+대학 시절 포괄적으로 배우는 Robotics / VR전공으로 다양한 언어에 대한 이해도를 높였고, 
+Naver Boostcamp 에서 ComputerVision 트랙으로 AI기초를 다졌습니다.
 
 **ComputerVision**를 좋아하고 **Deeplearning, Multi-modal, Self-driving** 등 많은 것에 관심이 있어요
 
@@ -29,8 +30,8 @@
  - **2024.11 - Current** Jeju National Univ. AI Researcher [Typhoon Research Center](http://www.typhoon.or.kr/)
 
 ## Competitions & Project
- - **2022.03 - 2022.07** 지능시스템 Capstone Design, Hansung Univ., Korea - Object detection , tracking
- - **2022.03 - 2022.07** ICT 엔터테인먼트 Capstone Design, Hansung Univ., Korea - mapping, FPS, UI with Unity
+ - **2022.03 - 2022.07** 지능시스템 Capstone Design, Hansung Univ., Korea - Object detection, Tracking
+ - **2022.03 - 2022.07** ICT 엔터테인먼트 Capstone Design, Hansung Univ., Korea - Mapping, FPS, UI with Unity
  - **2022.09 - 2022.12** 2022 국방 AI 경진대회 본선 진출  [AI Connect](https://aiconnect.kr/competition/detail/213) - Sementic Segmentation, Denosing
  - **2023.12** Boostcamp level1 - [Imageclassification](https://github.com/boostcampaitech6/level1-imageclassification-cv-01) 1위
  - **2024.01** Boostcamp level2 - [ObjectDetection](https://github.com/boostcampaitech6/level2-objectdetection-cv-08) 5위
