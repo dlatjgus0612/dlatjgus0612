@@ -2,22 +2,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=__AIm&animation=fadeIn&fontAlign=80
 )
 
-안되면 되게하는 **ML/DataEngineer** 임서현입니다. 어떤 기술이든 새로운 것을 배우는 데에 거리낌이 없습니다.
+안되면 되게하는 **ML/DL Engineer** 임서현입니다. 어떤 기술이든 새로운 것을 배우는 데에 거리낌이 없습니다.
 
-대학 시절 포괄적으로 배우는 Robotics / VR전공으로 다양한 언어에 대한 이해도를 높였고, 
-Naver Boostcamp 에서 ComputerVision 트랙으로 AI기초를 다졌습니다.
+대학 **Robotics / VR** 전공으로 다양한 언어에 대한 이해도를 높였고 
+**Naver Boostcamp** 에서 Computer Vision 트랙으로 AI 기초를 다졌습니다.
 
-**ComputerVision**를 좋아하고 **Deeplearning, Multi-modal, Self-driving** 등 많은 것에 관심이 있어요
+**Deeplearning, Multi-modal, Self-driving** 등 많은 것에 관심이 있어요
 
 현재는 **정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
 
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-<img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
-<img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
-<img alt="apacheairflow" src ="https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img alt="arduino" src ="https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="apacheairflow" src ="https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612)
@@ -43,5 +37,7 @@ Naver Boostcamp 에서 ComputerVision 트랙으로 AI기초를 다졌습니다.
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+^^;)
 
 ## contact
-![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+ ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+
 
