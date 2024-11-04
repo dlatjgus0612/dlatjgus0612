@@ -21,7 +21,7 @@
  - **2022.07 - 2022.12** Research Student at Hansung Univ., Korea [REEL](https://sites.google.com/view/hsreelab)
  - **2023.05 - 2023.06** Beyond AI Basic Study _ 10th [Coaching Study](https://www.boostcourse.org/study-ai111-2023)
  - **2023.11 - 2024.04** CV AI developer 6th [Naver BoostCamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
- - **2024.11 - Current** Jeju National Univ. AI Researcher [Typhoon Research Center](http://www.typhoon.or.kr/)
+ - **2024.11 - Current** Jeju National Univ. AI Researcher [Typhoon Research Center](http://www.typhoon.or.kr/) [DataProcessingStudy](https://github.com/dlatjgus0612/DataProcessing_TRC)
 
 ## Competitions & Project
  - **2022.03 - 2022.07** 지능시스템 Capstone Design, Hansung Univ., Korea - Object detection, Tracking
