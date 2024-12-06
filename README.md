@@ -9,7 +9,9 @@
 
 **Deeplearning, Multi-modal, Self-driving** 등 많은 것에 관심이 있어요
 
-현재는 **정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
+현재는 **JNU 태풍연구센터**에서 **프로젝트 연구원**을 하면서 Meteorology data 분석, AI, BE 등 다양하게 공부하며 하고 있어요
+
+**정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="apacheairflow" src ="https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 
