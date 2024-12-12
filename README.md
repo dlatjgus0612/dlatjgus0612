@@ -4,12 +4,10 @@
 
 안되면 되게하는 **ML/DL Engineer** 임서현입니다. 어떤 기술이든 새로운 것을 배우는 데에 거리낌이 없습니다.
 
-대학 **Robotics / VR** 전공으로 다양한 언어에 대한 이해도를 높였고 
-**Naver Boostcamp** 에서 Computer Vision 트랙으로 AI 기초를 다졌습니다.
-
 **Deeplearning, Multi-modal, Self-driving** 등 많은 것에 관심이 있어요
 
-현재는 **JNU 태풍연구센터**에서 **프로젝트 연구원**을 하면서 Meteorology data 분석, AI, BE 등 다양하게 공부하며 하고 있어요
+## Current
+**JNU 태풍연구센터**에서 **프로젝트 연구원**을 하면서 Meteorology data 분석, AI, BE 등 다양하게 공부하며 하고 있어요
 
 **정보처리기사** 취득 중에 있고, 다양한 데이터 분석을 위해 **SQL**을 독학 중에 있어요
 
