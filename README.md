@@ -14,7 +14,7 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="apacheairflow" src ="https://img.shields.io/badge/apacheairflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ![Imsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlatjgus0612&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612&layout=compact&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612)
 
 ## Experience & Career
