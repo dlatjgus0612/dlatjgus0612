@@ -38,12 +38,12 @@ Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공
  - **2025.01 - Current** AI 기반 해안침수예상도 제작 고도화
 
 
-## Paper Review
+## 📚 Paper Review
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+^^;)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612&layout=compact&theme=dracula)
 
-## contact
+## 📞 contact
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
  ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
 
