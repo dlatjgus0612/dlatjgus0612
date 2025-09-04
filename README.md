@@ -38,8 +38,10 @@ Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공
  - **2025.01 - Current** AI 기반 해안침수예상도 제작 고도화
 
 
-## 📚 Paper Review
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+^^;)
+## 📚 Paper Review & Conference
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+papers+^^;)
+ - **2025.07** AOGS Poster - Performance of AI-based Global Models in Tropical Cyclone Forecasting
+ - **2025.09** ECMWF workshop Poster - Assessing AI-based Global Weather Models for North Pacific Typhoon Track and Intensity Forecasts
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612&layout=compact&theme=dracula)
 
