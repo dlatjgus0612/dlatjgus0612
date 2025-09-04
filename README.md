@@ -40,6 +40,8 @@ Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공
 
 ## 📚 Paper Review & Conference
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+papers+^^;)
+
+
  - **2025.07** AOGS Poster - Performance of AI-based Global Models in Tropical Cyclone Forecasting
  - **2025.09** ECMWF workshop Poster - Assessing AI-based Global Weather Models for North Pacific Typhoon Track and Intensity Forecasts
 
