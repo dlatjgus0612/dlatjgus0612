@@ -42,8 +42,18 @@ Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+papers+^^;)
 
 
- - **2025.07** AOGS Poster - Performance of AI-based Global Models in Tropical Cyclone Forecasting
- - **2025.09** ECMWF workshop Poster - Assessing AI-based Global Weather Models for North Pacific Typhoon Track and Intensity Forecasts
+ - **2025.07 | AOGS | Poster Presentation**
+  *Performance of AI-based Global Models in Tropical Cyclone Forecasting*
+ - **2025.09 | ECMWF Workshop | Poster Presentation**
+  *Assessing AI-based Global Weather Models for North Pacific Typhoon Track and Intensity Forecasts*
+ - **2025.10 | 한국해양학회 | Poster Presentation**
+  *북서태평양과 북동태평양 태풍 경로 및 강도 예측 성능 비교를 통한 AI 기반 전지구 기상모델 평가*
+ - **2026.05 | 기상학회 / 한국해양학회 | Poster Presentation**
+  *Bred Vector 초기 섭동 기반 AI 기상모델의 열대저기압 경로 앙상블 예측*
+ - **2026.06 | 수로학회 | Oral Presentation**
+  *Bred Vector 초기 섭동 기반 AI 기상모델의 열대저기압 경로 앙상블 예측*
+  **Award:** 우수논문발표상
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook)
 
