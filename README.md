@@ -12,7 +12,7 @@
 
 
 ## 👩‍💻 Current
-**Korea Typhoon Research Institute (KTRI)**에서 **AI 연구원**을 하면서 
+Korea Typhoon Research Institute (KTRI)에서 **AI 연구원**을 하면서 
 
 Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공부하며 하고 있어요.
 
