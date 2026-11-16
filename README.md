@@ -38,10 +38,13 @@ Meteorology data Engineering, weather AI-models, Web(FE,BE) 등 다양하게 공
  - **2025.01 - Current** AI 기반 해안침수예상도 제작 고도화
 
 
-## 📚 Paper Review & Conference
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+papers+^^;)
+## 📝 Publications
+ - **2026.11 | 대기 (Atmosphere), Vol. 36, No. 4 | Review | KCI**
+  *대기·해양 AI 파운데이션 모델은 무엇을 갖추어야 하는가*
+  *(What Defines an Atmosphere-Ocean AI Foundation Model? Requirements and Design Principles)*
+  Dong-Hoon Kim, Il-Ju Moon\*, **Seo-Hyeon Im** · []()
 
-
+## 🎤 Conference
  - **2025.07 | AOGS | Poster Presentation**
   *Performance of AI-based Global Models in Tropical Cyclone Forecasting*
  - **2025.09 | ECMWF Workshop | Poster Presentation**
